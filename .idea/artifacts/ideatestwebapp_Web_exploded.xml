@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ideatestwebapp:Web exploded">
+    <output-path>$PROJECT_DIR$/../../../workspace/ideatestwebapp/out/artifacts/ideatestwebapp_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ideatestwebapp/web/Web" />
+    </root>
+  </artifact>
+</component>
